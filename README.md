@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkusingh)](https://github.com/alokkusingh/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=saml)](https://github.com/alokkusingh/saml)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=x509-authentication)](https://github.com/alokkusingh/x509-authentication)
+
 
 <!--
 **alokkusingh/alokkusingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
