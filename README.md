@@ -6,6 +6,7 @@
 
 [![StachOverflow](https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196)](https://stackoverflow.com/users/1366503/alok-singh)
 [![Tritter](https://abs.twimg.com/favicons/twitter.ico)](https://twitter.com/alok_singh)
+[![LinkedIn](https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a)](https://www.linkedin.com/in/aloksingh24/)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=saml)](https://github.com/alokkusingh/saml)
