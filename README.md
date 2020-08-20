@@ -4,6 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkusingh&layout=compact)](https://github.com/alokkusingh/github-readme-stats)
 
+[![StachOverflow](https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196)](https://stackoverflow.com/users/1366503/alok-singh)
+[![Tritter](https://abs.twimg.com/favicons/twitter.ico)](https://twitter.com/alok_singh)
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=saml)](https://github.com/alokkusingh/saml)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=x509-authentication)](https://github.com/alokkusingh/x509-authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=gRPCClient)](https://github.com/alokkusingh/gRPCClient)
