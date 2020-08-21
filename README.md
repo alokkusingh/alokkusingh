@@ -9,7 +9,7 @@
 [![LinkedIn](https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a)](https://www.linkedin.com/in/aloksingh24/)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=saml&theme=prussian)](https://github.com/alokkusingh/saml)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=x509-authentication&theme=radical)](https://github.com/alokkusingh/x509-authentication)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=x509-authentication&theme=prussian)](https://github.com/alokkusingh/x509-authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=gRPCClient&theme=prussian)](https://github.com/alokkusingh/gRPCClient)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=gRPCServer&theme=prussian)](https://github.com/alokkusingh/gRPCServer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=nginx-layer4-lb&theme=prussian)](https://github.com/alokkusingh/nginx-layer4-lb)
