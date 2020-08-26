@@ -17,6 +17,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=spring-batch-parent&theme=prussian)](https://github.com/alokkusingh/spring-batch-parent)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=mygate-account-reconciler&theme=prussian)](https://github.com/alokkusingh/mygate-account-reconciler)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=kafka-experimental&theme=prussian)](https://github.com/alokkusingh/kafka-experimental)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alokkusingh&repo=avro-serializer&theme=prussian)](https://github.com/alokkusingh/avro-serializer)
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
